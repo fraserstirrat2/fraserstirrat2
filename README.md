@@ -21,11 +21,12 @@ Power BI · Power Query · DAX · Semantic Modelling · R · GeoJSON · Azure Ma
 
 ## Core Skills
 
-- **Business Intelligence:** Power BI, Tableau
-- **Data Transformation:** Power Query, DAX, SQL, R, Python, Java
-- **Data Modelling:** Semantic modelling, relationships, filter context
-- **Reporting:** Data visualisation, stakeholder communication, interactive dashboards
-- **Technical:** GeoJSON, spatial processing, data validation, governance
+- **Business Intelligence:** Power BI, Tableau, interactive dashboard development
+- **Data Preparation & Analysis:** Power Query, SQL, R, Python
+- **Data Modelling:** Semantic modelling, relationships, DAX, filter context
+- **Reporting:** Data visualisation, stakeholder communication, self-service analytics
+- **Data Quality & Governance:** Validation, QA, responsible reporting
+- **Spatial Analysis:** R, GeoJSON, Azure Maps
 
 ---
 
