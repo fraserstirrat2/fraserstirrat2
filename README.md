@@ -38,5 +38,6 @@ Building employer-ready Business Intelligence portfolio projects and developing 
 
 ## Get in touch
 
-📧 [Add your email if comfortable]  
+📧 [fstirrat2@gmail.com]  
 💼 [LinkedIn URL - add when ready]
+🏢 [SEEK URL - add when ready]
